@@ -19,3 +19,6 @@ Si le logiciel est indépendant de tout autre dispositif, il est classé en tant
 
 ## DM (Dispositif Medical)
 - [Logiciels médicaux et nouveau règlement sur les DM](http://www.qualitiso.com/applis-logiciel-reglement-dispositifs-medicaux/)
+
+## UNique Device Identification (UDI)
+- [Unique Device Identification for software medical device - part 1](http://blog.cm-dm.com/post/2013/07/12/Unique-Device-Identification-for-software-medical-device-part-1)
