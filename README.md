@@ -10,5 +10,5 @@ Medical Device Regulation (MDR)
 - [Is my software in class I, IIa, IIb or III? - 2016 Revolution](http://blog.cm-dm.com/post/2016/07/22/Is-my-software-in-class-I%2C-IIa%2C-IIb-or-III-2016-Revolution)
 - [Classification des DM dans le nouveau règlement : les changements](http://www.qualitiso.com/modifications-classification-dm-reglement-europeen/)
 
-## DM
-- [Un logiciel est un dispositif médical comme un autre](http://www.qualitiso.com/applis-logiciel-reglement-dispositifs-medicaux/)
+## DM (Dispositif Medical)
+- [Logiciels médicaux et nouveau règlement sur les DM](http://www.qualitiso.com/applis-logiciel-reglement-dispositifs-medicaux/)
